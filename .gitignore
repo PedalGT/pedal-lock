@@ -1,0 +1,5 @@
+.DS_Store
+# third-party libraries (install via Library Manager)
+libraries/*
+# locally patched PN532 library is required to build
+!libraries/PN532/
